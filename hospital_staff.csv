@@ -1,0 +1,9 @@
+name,role,department,shift_start,shift_end
+Dr. Munnabhai,Doctor,ER,08:00,16:00
+Dr. Circuit,Doctor,Surgery,16:00,00:00
+Dr. House,Doctor,ICU,00:00,08:00
+Dr. Cuddy,Doctor,General,12:00,20:00
+Nurse Tralalero Tralala,Nurse,ER,07:00,15:00
+Nurse Bom Bardino,Nurse,ICU,19:00,03:00
+Nurse Chimpan Zini,Nurse,General,08:00,16:00
+Nurse Birbir Patapim,Nurse,Surgery,20:00,04:00
